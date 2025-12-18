@@ -22,6 +22,5 @@ Data Cleaning
 Pivot Tables
 Charts & Visualizatios
 Dashboard Design
-Charts & Visualizations
 
-Dashboard Design
+<img width="937" height="721" alt="Screenshot 2025-12-18 122742" src="https://github.com/user-attachments/assets/c7eb29eb-75ab-4896-86be-8e77bb6a2ac9" />
